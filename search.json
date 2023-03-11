@@ -4,7 +4,7 @@
     "href": "posts/newNote.html",
     "title": "First File",
     "section": "",
-    "text": "print(\"helllo world\")"
+    "text": "print(\"helllo world\")\n\nhelllo world"
   },
   {
     "objectID": "posts/welcome/index.html",
@@ -12,6 +12,13 @@
     "title": "Welcome To My Blog",
     "section": "",
     "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts/Intro.html",
+    "href": "posts/Intro.html",
+    "title": "Intro to Project",
+    "section": "",
+    "text": "CO2 Emmissions Worldwide and Technology\n\nWho is the biggest culpret of CO2 emmissions? Does that have anything to do with technology developement?\nGlobal warming is affecting our everyday lives and the developement of technology is a big part og that. The issue is that not everyone is as technologically developed, yet global warming affects everyone. In some cases it actually affects places that aren’t as developed more.\nThe issue is that if we expand technology further and share with more countries to help developement, the spread of CO2 emmissions will get even worse than it already is. Will we come to a point in time where we will have to choose between developement and the envirnment? Maybe"
   },
   {
     "objectID": "posts/post-with-code/index.html",
@@ -32,6 +39,6 @@
     "href": "index.html",
     "title": "myblog",
     "section": "",
-    "text": "First File\n\n\n\n\n\nTesting Quarto\n\n\n\n\n\n\nMar 6, 2023\n\n\nBen Winjum\n\n\n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nMar 6, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nMar 3, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "First File\n\n\n\n\n\nTesting Quarto\n\n\n\n\n\n\nMar 6, 2023\n\n\nBen Winjum\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntro to Project\n\n\n\n\n\nProject\n\n\n\n\n\n\nMar 6, 2023\n\n\nBen Winjum\n\n\n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nMar 6, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nMar 3, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
   }
 ]
