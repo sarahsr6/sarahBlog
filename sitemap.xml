@@ -1,27 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://sarahsr6.github.io/sarahBlog/posts/Analysis.html</loc>
+    <lastmod>2023-03-11T21:30:27.949Z</lastmod>
+  </url>
+  <url>
     <loc>https://sarahsr6.github.io/sarahBlog/posts/newNote.html</loc>
-    <lastmod>2023-03-11T21:22:09.516Z</lastmod>
+    <lastmod>2023-03-11T21:30:28.381Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sarahsr6.github.io/sarahBlog/posts/Data.html</loc>
+    <lastmod>2023-03-11T21:30:28.948Z</lastmod>
   </url>
   <url>
     <loc>https://sarahsr6.github.io/sarahBlog/posts/welcome/index.html</loc>
-    <lastmod>2023-03-11T21:22:09.948Z</lastmod>
+    <lastmod>2023-03-11T21:30:29.393Z</lastmod>
   </url>
   <url>
     <loc>https://sarahsr6.github.io/sarahBlog/posts/Intro.html</loc>
-    <lastmod>2023-03-11T21:22:10.373Z</lastmod>
+    <lastmod>2023-03-11T21:30:29.807Z</lastmod>
   </url>
   <url>
     <loc>https://sarahsr6.github.io/sarahBlog/posts/post-with-code/index.html</loc>
-    <lastmod>2023-03-11T21:22:10.818Z</lastmod>
+    <lastmod>2023-03-11T21:30:30.204Z</lastmod>
   </url>
   <url>
     <loc>https://sarahsr6.github.io/sarahBlog/about.html</loc>
-    <lastmod>2023-03-11T21:22:11.211Z</lastmod>
+    <lastmod>2023-03-11T21:30:30.636Z</lastmod>
   </url>
   <url>
     <loc>https://sarahsr6.github.io/sarahBlog/index.html</loc>
-    <lastmod>2023-03-11T21:22:11.724Z</lastmod>
+    <lastmod>2023-03-11T21:30:31.198Z</lastmod>
   </url>
 </urlset>
